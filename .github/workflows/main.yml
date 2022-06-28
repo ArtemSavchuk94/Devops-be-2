@@ -10,7 +10,7 @@ on:
 
 env:
   DOCKER_USERNAME: artemsavchuk94
-  DOCKER_REPOSITORY_NAME: Devops-be-2-
+  DOCKER_REPOSITORY_NAME: node-web-app2
 
 jobs:
 

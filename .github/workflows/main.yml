@@ -9,8 +9,8 @@ on:
       - "*.x"
 
 env:
-  DOCKER_USERNAME: containersolution
-  DOCKER_REPOSITORY_NAME: semver-docker
+  DOCKER_USERNAME: artemsavchuk94
+  DOCKER_REPOSITORY_NAME: Devops-be-2-
 
 jobs:
 

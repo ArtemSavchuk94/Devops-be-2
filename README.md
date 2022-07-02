@@ -1,2 +1,3 @@
 # Devops-be-2-
-git add1
+git add
+.gitignore

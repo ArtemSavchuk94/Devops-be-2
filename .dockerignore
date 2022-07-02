@@ -1,0 +1,7 @@
+node_modules
+.git
+Dockerfile
+.idea
+README.md
+docker-compose.yml
+.github/workflows
